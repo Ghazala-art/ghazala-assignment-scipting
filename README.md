@@ -1,0 +1,2 @@
+# ghazala-assignment-scipting
+scripting
